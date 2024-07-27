@@ -20,13 +20,13 @@ For each problem, I follow a structured approach:
 
 ## How to Use
 
-1.**Clone the Repository:**
+1. **Clone the Repository:**
 
 ```
-git clone https://github.com/yourusername/leetcode-solutions.git
+git clone https://github.com/chetanck03/leetcode.git
 ```
 
-2.**Navigate to the Solution:**
+2. **Navigate to the Solution:**
 
 Each problem's solution is stored in a folder named after the problem title.
 
